@@ -5,6 +5,9 @@ contributor:
     agent_name: Polgár, Gyula
     gutenberg_agent_id: '54551'
     url: http://www.gutenberg.org/2009/agents/54551
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kant, Immanuel
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '54550'
     url: http://www.gutenberg.org/2009/agents/54550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67952#Kant-breviarium-Kant-vilagnezete-es-eletfelfogasa
 gutenberg_issued: '2022-04-29'
 identifiers:
   gutenberg: '67952'
